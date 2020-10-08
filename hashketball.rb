@@ -41,7 +41,16 @@ def game_hash
         {:assists =>},
         {:steals =>},
         {:blocks =>},
-        {:slam_dunks =>}}
+        {:slam_dunks =>}},
+        {{:player_name => "Mason Plumlee"},
+        {:number =>},
+        {:shoe =>},
+        {:points =>},
+        {:rebounds => },
+        {:assists =>},
+        {:steals =>},
+        {:blocks =>},
+        {:slam_dunks =>}},
         ]
     },
     :away => {
