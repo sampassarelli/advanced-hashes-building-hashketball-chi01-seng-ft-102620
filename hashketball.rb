@@ -24,7 +24,7 @@ def game_hash
         {:steals =>},
         {:blocks =>},
         {:slam_dunks =>}},
-        {{:player_name => ""},
+        {{:player_name => "Brook Lopez"},
         {:number =>},
         {:shoe =>},
         {:points =>},
