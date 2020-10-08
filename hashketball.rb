@@ -33,7 +33,7 @@ def game_hash
         {:steals =>},
         {:blocks =>},
         {:slam_dunks =>}},
-        {{:player_name => ""},
+        {{:player_name => "Mason Plumlee"},
         {:number =>},
         {:shoe =>},
         {:points =>},
